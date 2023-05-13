@@ -35,7 +35,7 @@ Checking For Live Domains
 ---
 Clone the repository:
 ```
-git clone https://github.com/halfengineer/xss_detection.git
+git clone https://github.com/haifengineer/xss_detection.git
 ```
 
 Enter the clonned folder:
