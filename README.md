@@ -40,7 +40,7 @@ git clone https://github.com/halfengineer/xss_detection.git
 
 Enter the clonned folder:
 ```
-cd xss_finder
+cd xss_detection
 ```
 Give permissions:
 ```
